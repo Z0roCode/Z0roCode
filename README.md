@@ -28,20 +28,18 @@ I architect robust backends, craft beautiful frontends, and leverage AI to build
 
 <br>
 
-<h3>🧠 Tech Stack & Arsenal</h3>
+<h3>💻 System Architecture</h3>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,sass,vue,redux" alt="Frontend" />
-
-<br>
-<strong>Frontend & UI/UX</strong>
-
-<br>
-<br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,go,rust,graphql,postgres,mongodb,docker,redis" alt="Backend" />
-
-<br>
-<strong>Backend & Infrastructure</strong>
+<table border="0" cellspacing="0" cellpadding="10" align="center" style="background-color: transparent;">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,sass,vue,redux" alt="Frontend" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,go,rust,graphql,postgres,mongodb,docker,redis" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><b>Frontend & UI/UX</b></sub></td>
+    <td align="center"><sub><b>Backend & Infrastructure</b></sub></td>
+  </tr>
+</table>
 
 <br>
 
@@ -72,9 +70,15 @@ I architect robust backends, craft beautiful frontends, and leverage AI to build
 
 <br>
 
-<h3>🐍 Watch my code grow</h3>
+<h3>📈 Contribution Graph</h3>
 
-<img src="https://raw.githubusercontent.com/Z0roCode/Z0roCode/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Z0roCode&theme=react-dark&hide_border=true&bg_color=0D1117&color=F75C7B&line=79C0FF&point=FFFFFF" alt="Activity Graph" />
+
+<br>
+
+<h3>💬 Random Dev Quote</h3>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 
 <br>
 
