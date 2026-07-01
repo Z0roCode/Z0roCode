@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7B&center=true&vCenter=true&random=false&width=800&lines=Hey+there+%F0%9F%91%8B+I'm+Ammar;AKA+Zorium+%7C+Z0roCode;Full+Stack+Architect;AI-Powered+Developer;Building+the+next+gen+of+SaaS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&random=false&width=800&lines=Hey+there+%F0%9F%91%8B+I'm+Ammar;AKA+Zorium+%7C+Z0roCode;Full+Stack+Architect;AI-Powered+Developer;Building+the+next+gen+of+SaaS" alt="Typing SVG" />
 
 <br>
 
@@ -8,9 +8,9 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Z0roCode&label=Profile%20Views&color=0e6bba&style=for-the-badge&label=Visitors" alt="Z0roCode" />
+<img src="https://komarev.com/ghpvc/?username=Z0roCode&label=Profile%20Views&color=00E676&style=for-the-badge&label=Visitors" alt="Z0roCode" />
 
-<a href="https://github.com/Z0roCode?tab=followers"><img src="https://img.shields.io/github/followers/Z0roCode?label=Followers&style=for-the-badge&color=0e6bba" alt="Followers" /></a>
+<a href="https://github.com/Z0roCode?tab=followers"><img src="https://img.shields.io/github/followers/Z0roCode?label=Followers&style=for-the-badge&color=00E676" alt="Followers" /></a>
 
 <br>
 <br>
@@ -24,70 +24,72 @@ I architect robust backends, craft beautiful frontends, and leverage AI to build
 
 <h3>🚀 Currently Building</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=500&color=79C0FF&center=true&vCenter=true&random=false&width=435&lines=Scalable+SaaS+Web+Apps;AI-Integrated+User+Experiences;Next-Gen+Developer+Tools" alt="Building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=500&color=39D353&center=true&vCenter=true&random=false&width=435&lines=Scalable+SaaS+Web+Apps;AI-Integrated+User+Experiences;Next-Gen+Developer+Tools" alt="Building" />
 
 <br>
 
-<h3>💻 System Architecture</h3>
+<h3>🧠 Tech Stack & Arsenal</h3>
 
-<table border="0" cellspacing="0" cellpadding="10" align="center" style="background-color: transparent;">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,sass,vue,redux" alt="Frontend" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,go,rust,graphql,postgres,mongodb,docker,redis" alt="Backend" /></td>
-  </tr>
-  <tr>
-    <td align="center"><sub><b>Frontend & UI/UX</b></sub></td>
-    <td align="center"><sub><b>Backend & Infrastructure</b></sub></td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,vue" alt="Frontend" />
+<br>
+<sub><b>Frontend & UI/UX</b></sub>
+
+<br>
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,go,graphql,postgres,mongodb,docker,redis" alt="Backend" />
+<br>
+<sub><b>Backend & Infrastructure</b></sub>
+
+<br>
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,githubactions,linux,vercel,cloudflare,figma" alt="Tools" />
+<br>
+<sub><b>DevOps & Workflow</b></sub>
 
 <br>
 
 <h3>🤖 AI Development Arsenal</h3>
 
-<a href="https://claude.ai" target="_blank"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" /></a>
-<a href="https://lovable.dev" target="_blank"><img src="https://img.shields.io/badge/Lovable-FF4D8D?style=for-the-badge&logo=lovelace&logoColor=white" alt="Lovable" /></a>
-<a href="https://chatgpt.com" target="_blank"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /></a>
-<a href="https://kimi.moonshot.cn" target="_blank"><img src="https://img.shields.io/badge/Kimi_AI-000000?style=for-the-badge&logo=moon&logoColor=white" alt="Kimi" /></a>
+<a href="https://claude.ai" target="_blank"><img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" /></a>
+<a href="https://lovable.dev" target="_blank"><img src="https://img.shields.io/badge/Lovable-FF4D8D?style=flat-square&logo=lovelace&logoColor=white" alt="Lovable" /></a>
+<a href="https://chatgpt.com" target="_blank"><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" /></a>
+<a href="https://kimi.moonshot.cn" target="_blank"><img src="https://img.shields.io/badge/Kimi_AI-000000?style=flat-square&logo=moon&logoColor=white" alt="Kimi" /></a>
 
 <br>
-
-<h3>🏆 GitHub Trophies</h3>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Z0roCode&theme=dracula&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
-
 <br>
 
 <h3>📊 Zorium's Terminal Stats</h3>
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Z0roCode&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=F75C7B&icon_color=79C0FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Z0roCode&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=39D353&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
 
-<img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=Z0roCode&theme=midnight-purple&hide_border=true&background=0D1117&ring=F75C7B&fire=79C0FF&currStreakLabel=F75C7B&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=Z0roCode&theme=dark&hide_border=true&background=0D1117&ring=00E676&fire=39D353&currStreakLabel=00E676&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 <br>
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z0roCode&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=F75C7B&text_color=C9D1D9&count_private=true" alt="Top Languages" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z0roCode&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=C9D1D9&count_private=true" alt="Top Languages" />
 
 <br>
 
 <h3>📈 Contribution Graph</h3>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Z0roCode&theme=react-dark&hide_border=true&bg_color=0D1117&color=F75C7B&line=79C0FF&point=FFFFFF" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Z0roCode&theme=react-dark&hide_border=true&bg_color=0D1117&color=39D353&line=00E676&point=FFFFFF" alt="Activity Graph" />
 
 <br>
 
 <h3>💬 Random Dev Quote</h3>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
 
 <br>
 
 <h3>📡 Establish Connection</h3>
 
-<a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-<a href="https://linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>
+<a href="https://linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 <br>
 
