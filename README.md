@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7B&center=true&vCenter=true&random=false&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Ammar;AKA+Zorium+%7C+Z0roCode;Full+Stack+Architect;AI-Powered+Developer;Building+the+next+gen+of+SaaS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7B&center=true&vCenter=true&random=false&width=800&lines=Hey+there+%F0%9F%91%8B+I'm+Ammar;AKA+Zorium+%7C+Z0roCode;Full+Stack+Architect;AI-Powered+Developer;Building+the+next+gen+of+SaaS" alt="Typing SVG" />
 
 <br>
 
@@ -54,21 +54,27 @@ I architect robust backends, craft beautiful frontends, and leverage AI to build
 
 <br>
 
-<h3>📊 Zorium's Terminal Stats</h3>
+<h3>🏆 GitHub Trophies</h3>
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Z0roCode&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=F75C7B&icon_color=79C0FF&text_color=C9D1D9" alt="GitHub Stats" />
-
-<img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=Z0roCode&theme=midnight-purple&hide_border=true&background=0D1117&ring=F75C7B&fire=79C0FF&currStreakLabel=F75C7B" alt="GitHub Streak" />
+<img src="https://github-profile-trophy.vercel.app/?username=Z0roCode&theme=dracula&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
 
 <br>
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z0roCode&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=F75C7B&text_color=C9D1D9" alt="Top Languages" />
+<h3>📊 Zorium's Terminal Stats</h3>
+
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Z0roCode&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=F75C7B&icon_color=79C0FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
+
+<img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=Z0roCode&theme=midnight-purple&hide_border=true&background=0D1117&ring=F75C7B&fire=79C0FF&currStreakLabel=F75C7B&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
+<br>
+
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z0roCode&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=F75C7B&text_color=C9D1D9&count_private=true" alt="Top Languages" />
 
 <br>
 
 <h3>🐍 Watch my code grow</h3>
 
-<img src="https://github.com/Z0roCode/Z0roCode/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/Z0roCode/Z0roCode/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 <br>
 
