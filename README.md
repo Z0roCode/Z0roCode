@@ -1,102 +1,120 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&random=false&width=800&lines=Hey+there+%F0%9F%91%8B+I'm+Ammar;AKA+Zorium+%7C+Z0roCode;Full+Stack+Architect;AI-Powered+Developer;Building+the+next+gen+of+SaaS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Zorium+%F0%9F%91%8B;Web+Designer+%26+Developer;I+Build+Websites+That+Grow+Businesses" alt="Typing SVG" />
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://komarev.com/ghpvc/?username=Z0roCode&label=Profile%20Views&color=1E90FF&style=flat-square" alt="profile views" />
+<a href="https://github.com/Z0roCode?tab=followers"><img src="https://img.shields.io/github/followers/Z0roCode?label=Followers&style=flat-square&color=1E90FF" alt="followers" /></a>
+
+</div>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Z0roCode&label=Profile%20Views&color=00E676&style=for-the-badge&label=Visitors" alt="Z0roCode" />
+## 👋 About Me
 
-<a href="https://github.com/Z0roCode?tab=followers"><img src="https://img.shields.io/github/followers/Z0roCode?label=Followers&style=for-the-badge&color=00E676" alt="Followers" /></a>
+I design and build websites for real estate agencies, clinics, cafes, salons, and other local & online businesses — sites that don't just look good, but actually help owners **book more appointments, sell more tables, and convert more leads.**
 
-<br>
-<br>
+I focus on three things every client cares about, whether they know the technical terms or not:
 
-<h3>⚡ About Me</h3>
-
-<p>I bridge the gap between human creativity and AI capability.<br>
-I architect robust backends, craft beautiful frontends, and leverage AI to build things faster, smarter, and out of the box. Currently focused on building and launching SaaS web applications.</p>
+- **Speed** — nobody waits for a slow site to load
+- **Clarity** — visitors should know what to do within 5 seconds
+- **Mobile-first** — most local customers are searching from their phone
 
 <br>
 
-<h3>🚀 Currently Building</h3>
+## 🏢 Who I Build For
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=500&color=39D353&center=true&vCenter=true&random=false&width=435&lines=Scalable+SaaS+Web+Apps;AI-Integrated+User+Experiences;Next-Gen+Developer+Tools" alt="Building" />
-
-<br>
-
-<h3>🧠 Tech Stack & Arsenal</h3>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,vue" alt="Frontend" />
-<br>
-<sub><b>Frontend & UI/UX</b></sub>
-
-<br>
-<br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,go,graphql,postgres,mongodb,docker,redis" alt="Backend" />
-<br>
-<sub><b>Backend & Infrastructure</b></sub>
-
-<br>
-<br>
-
-<img src="https://skillicons.dev/icons?i=git,githubactions,linux,vercel,cloudflare,figma" alt="Tools" />
-<br>
-<sub><b>DevOps & Workflow</b></sub>
+| Industry | What the site needs to do |
+|---|---|
+| 🏠 Real Estate | Showcase listings, filter by price/location, drive inquiry calls |
+| 🩺 Healthcare & Clinics | Simple appointment booking, build patient trust, list services clearly |
+| ☕ Cafes & Restaurants | Beautiful menu presentation, easy reservations, mobile-first browsing |
+| 💇 Salons & Spas | Service booking, before/after galleries, repeat-client retention |
+| ⚖️ Professional Services | Credibility-first design, clear CTAs, lead capture forms |
 
 <br>
 
-<h3>🤖 AI Development Arsenal</h3>
+## 🛠️ Tech Stack
 
-<a href="https://claude.ai" target="_blank"><img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" /></a>
-<a href="https://lovable.dev" target="_blank"><img src="https://img.shields.io/badge/Lovable-FF4D8D?style=flat-square&logo=lovelace&logoColor=white" alt="Lovable" /></a>
-<a href="https://chatgpt.com" target="_blank"><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" /></a>
-<a href="https://kimi.moonshot.cn" target="_blank"><img src="https://img.shields.io/badge/Kimi_AI-000000?style=flat-square&logo=moon&logoColor=white" alt="Kimi" /></a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" alt="frontend stack" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,git,github,vercel" alt="backend and tools stack" />
+
+<br><br>
+
+## 💼 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🏠 Real Estate Listings Platform**  
+Property grid with search filters, detail pages with image galleries, and a mortgage calculator widget.  
+`React` `Tailwind CSS` `Framer Motion`  
+🔗 [Live Demo](#) &nbsp;|&nbsp; 📂 [Repository](#)
+
+</td>
+<td width="50%">
+
+**🩺 Clinic Appointment System**  
+Doctor profiles, service listings, and a clean multi-step booking flow built for patient trust.  
+`Next.js` `Tailwind CSS` `Formspree`  
+🔗 [Live Demo](#) &nbsp;|&nbsp; 📂 [Repository](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**☕ Cafe & Restaurant Site**  
+Photography-driven homepage, digital menu with dietary tags, and an online reservation form.  
+`HTML` `CSS` `JavaScript`  
+🔗 [Live Demo](#) &nbsp;|&nbsp; 📂 [Repository](#)
+
+</td>
+<td width="50%">
+
+**💇 Salon Booking Experience**  
+Service menu, stylist profiles, and before/after gallery with a booking-first layout.  
+`React` `Tailwind CSS`  
+🔗 [Live Demo](#) &nbsp;|&nbsp; 📂 [Repository](#)
+
+</td>
+</tr>
+</table>
+
+<sub>📌 Replace the `#` links above with your live deployment and GitHub repo URLs once uploaded.</sub>
 
 <br>
-<br>
 
-<h3>📊 Zorium's Terminal Stats</h3>
+## 📊 GitHub Stats
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Z0roCode&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=39D353&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
+<div align="center">
 
-<img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=Z0roCode&theme=dark&hide_border=true&background=0D1117&ring=00E676&fire=39D353&currStreakLabel=00E676&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=Z0roCode&show_icons=true&theme=default&hide_border=true&bg_color=ffffff00&title_color=1E90FF&icon_color=1E90FF&text_color=333333" alt="GitHub Stats" />
+<img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=Z0roCode&hide_border=true&background=ffffff00&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" alt="GitHub Streak" />
 
-<br>
-
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z0roCode&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=C9D1D9&count_private=true" alt="Top Languages" />
+</div>
 
 <br>
 
-<h3>📈 Contribution Graph</h3>
+## 📬 Let's Work Together
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Z0roCode&theme=react-dark&hide_border=true&bg_color=0D1117&color=39D353&line=00E676&point=FFFFFF" alt="Activity Graph" />
+I'm open to freelance and contract work building websites for local and online businesses.
 
-<br>
+<div align="center">
 
-<h3>💬 Random Dev Quote</h3>
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
-
-<br>
-
-<h3>📡 Establish Connection</h3>
-
-<a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>
-<a href="https://linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</div>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=2000&pause=1000&color=C9D1D9&center=true&vCenter=true&random=false&width=435&lines=System+Standby...;Waiting+for+next+innovation..." alt="Standby" />
-
+<div align="center">
+<sub>Thanks for stopping by — take a look at the pinned repos above for live examples.</sub>
 </div>
