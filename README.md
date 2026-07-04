@@ -70,8 +70,8 @@ I work across a few industries where this matters most: real estate, healthcare 
 
 **Real Estate Listings Platform**  
 A property browsing experience with real filtering, clean listing pages, and a built-in mortgage calculator so buyers don't have to leave the site to run numbers.  
-`React` `Tailwind CSS`  
-[Live Demo](#) &nbsp;·&nbsp; [Repository](#)
+`Next.js` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL`  
+[Live Demo](https://real-estate-listing-platform-tau.vercel.app/) &nbsp;·&nbsp; [Repository](https://github.com/Z0roCode/Real-Estate-Listing-Platform)
 
 </td>
 <td width="50%">
@@ -96,14 +96,14 @@ A menu built to be looked at, not just read, paired with a reservation flow that
 
 **Salon Booking System**  
 Service listings and a before and after gallery built to do the convincing before a visitor even reaches the booking button.  
-`React` `Tailwind CSS`  
+`Next.js` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL`  
 [Live Demo](#) &nbsp;·&nbsp; [Repository](#)
 
 </td>
 </tr>
 </table>
 
-<sub>Swap the `#` links for live deployments and repo URLs as each project goes up.</sub>
+<sub>More projects going up soon.</sub>
 
 <br>
 
